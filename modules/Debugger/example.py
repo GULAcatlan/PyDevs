@@ -5,4 +5,5 @@
 """
 from parser import csv
 
-csv.hola()
+saludador=csv.hola
+saludador()
